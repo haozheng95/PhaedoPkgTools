@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-@author: yinhaozheng
-@software: PyCharm
-@file: build.py
-@time: 2021/9/16 下午2:22
-"""
 import os
 
 __mtime__ = '2021/9/16'
